@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 # Variável global para armazenar a imagem original
 imagem_original = None
 zoom_factor = 1.0
-pasta_imagens = "C:/Users/Gabriel/Desktop/Trabalho-de-PAI-main/dataset"
+pasta_imagens = "dataset"
 
 # Função para listar imagens na pasta
 def listar_imagens(pasta):
